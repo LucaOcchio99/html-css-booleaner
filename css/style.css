@@ -25,6 +25,24 @@ h1{
     margin-left: 15px;
 }
 
+#colore_blu{
+  color: blue;
+}
+
+.prima_modifica{
+  font-style: italic;
+  font-size: 15px;
+}
+
+#seconda_modifica{
+  font-style: italic;
+  font-size: 13px;
+}
+
+.sfondo_giallo{
+  background-color: yellow;
+}
+
 p{
   margin-left: 15px;
 }
@@ -32,4 +50,14 @@ p{
 img{
     margin-top: 5px;
     margin-left: 10px;
+}
+
+table{
+  margin-top: 20px;
+  margin-left: 12px;
+
+}
+
+#lorem{
+  margin-top: 20px;
 }
